@@ -1,0 +1,89 @@
+<TABLE border="0" align="center">
+<TR>
+<TD width="100%" align="left"><p class="light_white"><b>①他のプレイヤーに危害を加えてはならない。(Harassment is prohibited.)</b></p></TD>
+</TR>
+<tr>
+<td align="left"><p class="light_white">　嫌がらせ等の様々なハラスメント行為が対象になります。<br>　嫌がらせのつもりでなくても、相手が不快だと感じたらハラスメント行為とみなされます。<br>　当然、溶岩やモンスターなどを用いたPvPエリア以外でのPK(PlayerKill)行為も対象となります。</p></td>
+</tr>
+<tr>
+<td align="left"><p class="light_white"><b>②他のプレイヤーの構造物を破壊してはいけない。(Vandalism is prohibited)</b></p></td>
+</tr>
+<tr>
+<td align="left"><p class="light_white">　公共性の高い通路等を増設することは可能です。<br>　他の人の家の近くを編集する際は、住民に許可を取ると良いでしょう。</p></td>
+</tr>
+<tr>
+<td align="left"><p class="light_white"><b>③チェストなどからアイテムを無断で持ち去ってはいけない。(Forbidden to steal.)</b></p></td>
+</tr>
+<tr>
+<td align="left"><p class="light_white">　チェストなどの中身は基本的に他人の所有物です。<br>　たとえ保護がかかっていなくても、無断で取ることは禁止です。<br>　「ご自由にお取りください」などと書かれていた場合は問題ありません。</p></td>
+</tr>
+
+<tr>
+<td align="left"><p class="light_white"><b>④誹謗中傷・ログ流し（スパム行為）などを行ってはいけない。(Rant and chat spam prohibited.)</b></p></td>
+</tr>
+<tr>
+<td align="left"><p class="light_white">　他人を不快にさせる発言や、風紀を乱すような発言が対象になります。<br>　また必要以上にチャットを連呼する行為（スパム行為）も同様の対象になります。</p></td>
+</tr>
+
+
+<tr>
+<td align="left"><p class="light_white"><b>⑤サーバーに負荷をかける行為はしてはいけない。(Attack to the server prohibited.)</b></p></td>
+</tr>
+<tr>
+<td align="left"><p class="light_white">　大量のモンスターを貯めるトラップや大規模なレッドストーン回路などが対象になります。<br>　大規模な（サーバーに負荷がかかる恐れのある）構造物を作る際は、運営陣に一声かけてくださると助かります。<br>　サーバーへの直接的な負荷要因であることが発覚した場合、通告無しに該当の構造物を<br>　運営陣が破壊することがあります。</p></td>
+</tr>
+
+<tr>
+<td align="left"><p class="light_white"><b>⑥飼っている動物や額縁などのエンティティは放牧面積の２分の１にとどめなくてはいけない。<br>　(Animals and Entity is half of Grazing area.)</b></p></td>
+</tr>
+<tr>
+<td align="left"><p class="light_white">　例えば、放牧面積が8x8=64blockであれば、ブロック数の半分の32匹までしか飼うことができません。<br>　また、額縁などの曖昧なエンティティは具体的な数値に関わらず、<br>　『負荷の原因に成り得る』と運営陣が判断した場合は通告無しに撤去する場合があります。<br>　また、y座標は含まず、平面的に見た数が対象となります。</p></td>
+</tr>
+
+<tr>
+<td align="left"><p class="light_white"><b>⑦一人につき飼える動物の数はサーバー全体で 150 までとする。<br>　(Animals and Entity per one player is 150.)</b></p></td>
+</tr>
+<tr>
+<td align="left"><p class="light_white">　大量のモンスターを貯めるトラップや大規模なレッドストーン回路などが対象になります。<br>　大規模な（サーバーに負荷がかかる恐れのある）構造物を作る際は、運営陣に一声かけてくださると助かります。<br>　サーバーへの直接的な負荷要因であることが発覚した場合、通告無しに該当の構造物を<br>　運営陣が破壊することがあります。</p></td>
+</tr>
+
+
+<tr>
+<td align="left"><p class="light_white"><b>⑧新しい構造物を建築する際は、既存の構造物から５ブロック以上離さなければいけない。<br>　(Between building and building is 5 block necessary at least.)</b></p></td>
+</tr>
+<tr>
+<td align="left"><p class="light_white">　既存の構造物から5ブロック以内に建築したい場合は既存の構造物の権利者に許可を得る必要があります。<br>　もし許可を取らずに建築した場合、権利者からの申し立てがあると違反した構造物は<br>　運営陣によって撤去されることがあります。</p></td>
+</tr>
+<tr>
+<td align="left"><p class="light_white"><b>⑨空き家と判断された構造物は住民の要望によって、運営陣が撤去することができる。<br>　(If there is demand, Vacant house is removed by Admins.)</b></p></td>
+</tr>
+<tr>
+<td align="left"><p class="light_white">　空き家の判断基準は、<br>　　・構造物の家主が特定できない。（表札が無いなど）<br>　　・家主が一ヶ月以上ログインしていない。<br>　　・長い間（一ヶ月程度）作りかけのまま放置されている。<br>
+　場合とします。<br>
+　空き家の最終的な判断はEAdmins以上の権限を持つプレイヤーが行います。<br>　何の断りもなく他人の構造物を破壊する行為は禁止です。</p></td>
+</tr>
+<tr>
+<td align="left"><p class="light_white"><b>⑩チートやハッキングクライアント（X-rayやFlyHackなど）を使用してはいけない。(Using cheat is prohibited.)</b></p></td>
+</tr>
+<tr>
+<td align="left"><p class="light_white">　ここでは通常ではあり得ない動作を可能にする行為、不正にゲームを有利に進める行為をチートと呼びます。<br>　また、一般的にチート行為と呼ばれる物も対象となります。</p></td>
+</tr>
+<tr>
+<td align="left"><p class="light_white"><b>⑪性的・暴力的に不適切な構造物の建築やスキンの使用をしてはいけない。<br>　(Sexual or Violent skin and building is prohibited.)</b></p></td>
+</tr>
+<tr>
+<td align="left"><p class="light_white">　基本的な判断は (c)日本放送協会 の番組基準に順守します。<br>　また、他のプレイヤーから多く不快であると申し立てがあった場合その限りではありません。</p></td>
+</tr>
+<tr>
+<td align="left"><p class="light_white"><b>⑫意図的にバグを悪用してはいけない。<br>　(Using bug is prohibited.)</b></p></td>
+</tr>
+<tr>
+<td align="left"><p class="light_white">　ブロックグリッチ（壁ジャンプや破壊判定の利用）やアイテム増殖などのバグが対象です。<br>　悪用でなければ黙認される場合もありますが、好ましい行為ではありません。</p></td>
+</tr>
+<tr>
+<td align="left"><p class="light_white"><b>⑬その他、管理人が認めるあらゆる違反行為をしてはいけない。(and many other things...)</b></p></td>
+</tr>
+<tr>
+<td align="left"><p class="light_white">　上記以外であっても、常軌を逸する行為など一般的に非常識となる行為は処罰対象に成り得ます。</p></td>
+</tr>
+</TABLE>

@@ -1,0 +1,33 @@
+﻿.button_yellow {
+	display: inline-block;
+	width: 440px;
+	height: 54px;
+	text-align: center;
+	text-decoration: none;
+	line-height: 54px;
+	outline: none;
+}
+.button_yellow::before,
+.button_yellow::after {
+	position: absolute;
+	z-index: -1;
+	display: block;
+	content: '';
+}
+.button_yellow,
+.button_yellow::before,
+.button_yellow::after {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-transition: all .3s;
+	transition: all .3s;
+}
+
+.button_yellow {
+	background-color: #f39c12;
+	color: #fff;
+}
+.button_yellow:hover {
+	background-color: #f1c40f;
+}

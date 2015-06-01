@@ -1,0 +1,33 @@
+﻿.button_green {
+	display: inline-block;
+	width: 200px;
+	height: 54px;
+	text-align: center;
+	text-decoration: none;
+	line-height: 54px;
+	outline: none;
+}
+.button_green::before,
+.button_green::after {
+	position: absolute;
+	z-index: -1;
+	display: block;
+	content: '';
+}
+.button_green,
+.button_green::before,
+.button_green::after {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-transition: all .3s;
+	transition: all .3s;
+}
+
+.button_green {
+	background-color: #27ae60;
+	color: #fff;
+}
+.button_green:hover {
+	background-color: #2ecc71;
+}

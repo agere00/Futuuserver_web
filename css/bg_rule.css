@@ -1,0 +1,11 @@
+﻿body {
+  background-image: url('../img/bg_rule.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #464646;
+}
+p {
+  font-family: "メイリオ", sans-serif;
+}
